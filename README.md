@@ -1,5 +1,5 @@
 # CSES Solutions
-Welcome to the CSES repo! This repository contains my solutions to the problems from the CSES Problem Set, a collection of competetive programming problems.
+Welcome to the CSES repo! This repository contains my solutions to the problems from the [CSES Problem Set](https://cses.fi/problemset/list/), a collection of competetive programming problems.
 
 # Overview
 The CSES Problem Set is a well-known collection of algorithmic problems intended for practice and competition preparation. These solutions are my personal implementations and are intended to help others understand different approaches to solving these problems.
