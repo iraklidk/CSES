@@ -19,4 +19,4 @@ The repository is organized by problem categories as outlined on the CSES Proble
 - Advanced Techniques
 - Additional Problems
 
-Each category contains a subdirectory with the solutions for the problems within that category. Each solution file includes the problem description, my approach, and the code.
+Each category contains a subdirectory with the solutions for the problems within that category. Each solution file includes the problem description(2nd line) and the code.
